@@ -7,6 +7,6 @@ Aqui colocarei todos os códigos e base, que eu apresentar nos meus artigos publ
 Veja os meus artigos:
 
 * **Gogle Drive + Colab:**
-* * **Gogle Drive:**
+* **Gogle Drive:**
 * **Analisando Dados de Uma Empresa:**
 
